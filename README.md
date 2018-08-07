@@ -1,4 +1,4 @@
-## Forked to be able to set num channels and bits for recording
+## *Forked to be able to set num channels and bits for recording
 
 # medcorder_audio
 
