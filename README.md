@@ -1,3 +1,5 @@
+## Forked to be able to set num channels and bits for recording
+
 # medcorder_audio
 
 ## Flutter record/play audio plugin.
